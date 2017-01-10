@@ -1,0 +1,111 @@
+body{
+	margin: 0;
+	padding: 0;
+	width: 80%;
+	margin: 0 auto;
+}
+.header{
+	/*border:2px slider;*/
+height:100px;
+
+}
+.icon span{
+	float: right;
+	padding: 10px;
+
+}
+
+.slider img{
+	width: 100%;
+}
+.paragraph{
+	text-align: center;
+}
+.big_image{
+
+/*padding: 40px;
+padding-top: 5px;
+height: 100%;
+*/
+	/*position: relative;*/
+	overflow: hidden;
+	border: 2px solid red;
+	
+}
+.image{
+	width: 100%;
+
+}
+.small_image img{
+	width: 100%;
+}
+
+.gallery-right{
+    /*text-align: right;*/
+    position: relative;
+    /*border:2px solid red;*/
+    overflow: hidden;
+}
+.gallery-right img{
+    width: 100%;
+    /*position: relative;*/
+   /* padding-left: 3%;*/
+    height: 90vh;
+    overflow: hidden;
+}
+.contact_details{
+	/*border: 2px solid red;*/
+}
+
+.pic-text{
+
+    position: absolute;
+    bottom:0;
+    width: 94%;
+    /*padding-left: 12%;*/
+    /*padding-right: 12%;*/
+    opacity: 0.8;
+    background-color: #524A41;
+    color: white;
+    /*left: 50%*/
+    /*transform:translate(-50%,-50%);*/
+    text-align: center;
+}
+.details{
+/*	border: 2px solid black;*/
+}
+.contact img{
+width: 100%;
+}
+
+
+
+
+
+.logo{
+	padding-left: 350px;
+}
+.imgg{
+	position: relative;
+}
+.imgg img{
+	width: 67vh;
+	border: 2px solid black;
+	overflow: hidden;
+}
+.q_text {
+	width: 100%;
+	border: 2px solid red;
+position: absolute;
+	
+}
+.p_text{
+    font color: white;
+ 
+
+}
+.line{
+
+	width: 100%;
+
+}
